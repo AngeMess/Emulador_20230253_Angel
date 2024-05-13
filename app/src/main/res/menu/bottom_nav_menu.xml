@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragment_inicio"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Inicio" />
+
+    <item
+        android:id="@+id/fragment_perfil"
+        android:icon="@drawable/vector_asset_perfil"
+        android:title="Perfil" />
+
+    <item
+        android:id="@+id/fragment_info"
+        android:icon="@drawable/vector_asset_info"
+        android:title="Información" />
+
+    <item
+        android:id="@+id/fragment_contactanos"
+        android:icon="@drawable/vector_asset_contactanos"
+        android:title="Contactanos" />
+</menu>
